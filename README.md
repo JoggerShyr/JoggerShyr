@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am a cooker and code worker from Taiwan R.O.C. Always listen to the world.
 
 <!--
 **JoggerShyr/JoggerShyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
