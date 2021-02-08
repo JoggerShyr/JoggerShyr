@@ -1,4 +1,4 @@
-### Hi there! I am a cooker and code worker from Taiwan R.O.C. Always listen to the world.
+### Hi there! I am a cooker and code worker. Here comes my [resumes]https://github.com/JoggerShyr/JoggerShyr/blob/master/resumes-chinese.md) in chinese.
 
 <!--
 **JoggerShyr/JoggerShyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
