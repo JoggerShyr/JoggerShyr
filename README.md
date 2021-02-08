@@ -1,6 +1,7 @@
+### 您好! 我是一個廚師兼碼農. 請看我的[中文簡歷](https://github.com/JoggerShyr/JoggerShyr/blob/master/resumes-chinese.md).
+<!--
 ### Hi there! I am a cooker and code worker. Here comes my [resumes](https://github.com/JoggerShyr/JoggerShyr/blob/master/resumes-chinese.md) in chinese.
 
-<!--
 **JoggerShyr/JoggerShyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
