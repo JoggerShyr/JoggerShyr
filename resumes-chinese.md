@@ -47,8 +47,8 @@
        + Linux 系統管理
 
 * [智邦科技股份有限公司](https://www.accton.com.tw) (1994/Sep-1998/Oct)
-  1. 維護公司 AccMail 2.0 (DOS 版)
-  2. 開發智邦生活館電子郵件系統 AccMail 3.0 (Windows 版)
+  1. 維護公司 AccMail 2.0 (DOS 版).
+  2. 開發智邦生活館電子郵件系統 AccMail 3.0 (Windows 版).
   3. 建立並維護[智邦生活館](https://www.url.com.tw)網站.
   4. 使用技能:
        + Turbo C/C++
