@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<--
+<!--
 <a href="https://app.daily.dev/jogger"><img src="https://api.daily.dev/devcards/84caad83ff3b4e1a831f08ace3ab711a.png?r=8ce" width="400" alt="Jogger Shyr's Dev Card"/></a>
 -->
